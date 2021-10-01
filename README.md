@@ -1,0 +1,2 @@
+# 1b
+oppgave oblig
