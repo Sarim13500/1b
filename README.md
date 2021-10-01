@@ -1,2 +1,2 @@
-# 1b
-oppgave oblig
+# oblig-oppgave1b
+oppgave oblig1b
